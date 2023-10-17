@@ -21,3 +21,16 @@ nav a {
   text-decoration: none;
   color: #f4f2f3;
 }
+
+h1 {
+  color: #f4f2f3;
+}
+
+#description {
+  width: 100%;
+  overflow:hidden;
+}
+
+img {
+  padding: px;
+}
