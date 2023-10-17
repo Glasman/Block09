@@ -25,12 +25,26 @@ nav a {
 h1 {
   color: #f4f2f3;
 }
+img {
+  padding: 0px 10px 0px;
+  box-sizing: border-box;
+}
 
-#description {
+section {
+  max-height: 100vh;
+  max-width: 100%;
+  padding: 25px 10px 20px;
+  box-shadow: 0px 0px 15px -5px black;
+  color: #f4f2f3;
+  box-sizing: border-box;
   width: 100%;
   overflow:hidden;
 }
 
-img {
-  padding: px;
+div {
+  padding: 25px 10px 20px;
+  color: #f4f2f3;
+  box-sizing: border-box;
+  overflow:hidden;
+  
 }
